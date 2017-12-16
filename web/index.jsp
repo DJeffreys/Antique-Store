@@ -7,12 +7,12 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <head>
+    
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <link rel="stylesheet" Type="text/css" href="Web Pages/css/AntiqueStore.css"/>
                    
         <title>My Antique Store</title>
-    </head>
+    
     <body>
         <div id="main">
             <div id="header">
